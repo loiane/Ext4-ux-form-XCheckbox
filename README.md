@@ -9,6 +9,10 @@ Place the folder **ux** in your project.
 
 Do not forget to use Ext.Loader to be able to load the file.
 
+# Demo
+
+http://loiane.com.br/extjs/Ext4-ux-form-XCheckbox/
+
 # Authors
 
 * Plugin originally developed by Ing. Jozef Sakalos (ExtJS 2.x)
